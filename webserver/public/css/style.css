@@ -4,6 +4,7 @@ body {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
+    background-color: plum;
 
     display: flex;
     flex-direction: column;
@@ -30,10 +31,15 @@ header {
 h1 {
     font-size: 64px;
     margin-bottom: 16px;
+    text-align: center;
 }
 
 header a {
     color: #888888;
     margin-right: 16px;
     text-decoration: none;
+}
+
+p {
+    text-align: center;
 }
