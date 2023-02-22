@@ -43,3 +43,8 @@ header a {
 p {
     text-align: center;
 }
+
+form {
+    text-align: center;
+    margin-bottom: 15px;
+}
